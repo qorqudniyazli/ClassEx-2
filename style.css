@@ -1,0 +1,93 @@
+body{
+    font-family: Poppins, sans-serif;
+    margin: 0;
+}
+.box1 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(238, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    float: left; 
+}
+.box2 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(238, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 30px;  
+    margin-left: 80px;
+    float: left;    
+}
+.box3 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(238, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    float: left; 
+}
+.box4 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(238, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    float: left; 
+}
+.box5 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(238, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 30px;  
+    margin-left: 80px;
+    float: left;    
+}
+.box6 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(238, 238, 238);
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    float: left; 
+}
+.product-item{
+    box-sizing: border-box;
+    display: block;
+}
+.down-content {
+    padding: 30px;
+    position: relative;
+}
+img {
+    width: 100%;
+    border-style: none;
+}
+h4 {
+    font-size: 17px;
+    margin: 0%;
+    color: rgb(26, 102, 146);
+    margin-bottom: 20px;
+}
+h6 {   
+    font-family: inherit;
+    font-weight: 500;
+    position: absolute;
+    top: -10px;
+    right: 30px;
+    font-size: 18px;
+    color: rgb(18, 18, 18);
+}
+span{
+    color: red;
+    float: right;
+}
+
+
+
+
